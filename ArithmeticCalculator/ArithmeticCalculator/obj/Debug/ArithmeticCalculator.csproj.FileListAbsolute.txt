@@ -1,0 +1,10 @@
+C:\Harshada\AWT labs\ArithmeticCalculator\ArithmeticCalculator\bin\Debug\ArithmeticCalculator.exe.config
+C:\Harshada\AWT labs\ArithmeticCalculator\ArithmeticCalculator\bin\Debug\ArithmeticCalculator.exe
+C:\Harshada\AWT labs\ArithmeticCalculator\ArithmeticCalculator\bin\Debug\ArithmeticCalculator.pdb
+C:\Harshada\AWT labs\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.csproj.AssemblyReference.cache
+C:\Harshada\AWT labs\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.Form1.resources
+C:\Harshada\AWT labs\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.Properties.Resources.resources
+C:\Harshada\AWT labs\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.csproj.GenerateResource.cache
+C:\Harshada\AWT labs\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.csproj.CoreCompileInputs.cache
+C:\Harshada\AWT labs\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.exe
+C:\Harshada\AWT labs\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.pdb
