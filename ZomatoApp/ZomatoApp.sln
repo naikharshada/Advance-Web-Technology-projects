@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZomatoApp", "ZomatoApp\ZomatoApp.csproj", "{5CDFB9E2-1727-4DF8-93AC-1D846D40A5AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CDFB9E2-1727-4DF8-93AC-1D846D40A5AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDFB9E2-1727-4DF8-93AC-1D846D40A5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDFB9E2-1727-4DF8-93AC-1D846D40A5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDFB9E2-1727-4DF8-93AC-1D846D40A5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0672DDA-F998-4A9E-9D9F-17E2BB839543}
+	EndGlobalSection
+EndGlobal

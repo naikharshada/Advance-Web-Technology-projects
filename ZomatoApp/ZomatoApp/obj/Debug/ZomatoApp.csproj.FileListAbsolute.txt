@@ -1,0 +1,10 @@
+C:\Harshada\AWT labs\ZomatoApp\ZomatoApp\bin\Debug\ZomatoApp.exe.config
+C:\Harshada\AWT labs\ZomatoApp\ZomatoApp\bin\Debug\ZomatoApp.exe
+C:\Harshada\AWT labs\ZomatoApp\ZomatoApp\bin\Debug\ZomatoApp.pdb
+C:\Harshada\AWT labs\ZomatoApp\ZomatoApp\obj\Debug\ZomatoApp.csproj.AssemblyReference.cache
+C:\Harshada\AWT labs\ZomatoApp\ZomatoApp\obj\Debug\ZomatoApp.Properties.Resources.resources
+C:\Harshada\AWT labs\ZomatoApp\ZomatoApp\obj\Debug\ZomatoApp.csproj.GenerateResource.cache
+C:\Harshada\AWT labs\ZomatoApp\ZomatoApp\obj\Debug\ZomatoApp.csproj.CoreCompileInputs.cache
+C:\Harshada\AWT labs\ZomatoApp\ZomatoApp\obj\Debug\ZomatoApp.exe
+C:\Harshada\AWT labs\ZomatoApp\ZomatoApp\obj\Debug\ZomatoApp.pdb
+C:\Harshada\AWT labs\ZomatoApp\ZomatoApp\obj\Debug\ZomatoApp.FrmMain.resources
