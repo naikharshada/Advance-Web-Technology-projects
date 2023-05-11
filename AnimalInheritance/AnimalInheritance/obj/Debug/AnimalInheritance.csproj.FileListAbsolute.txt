@@ -1,0 +1,10 @@
+C:\Users\mcamock\source\repos\AnimalInheritance\AnimalInheritance\bin\Debug\AnimalInheritance.exe.config
+C:\Users\mcamock\source\repos\AnimalInheritance\AnimalInheritance\bin\Debug\AnimalInheritance.exe
+C:\Users\mcamock\source\repos\AnimalInheritance\AnimalInheritance\bin\Debug\AnimalInheritance.pdb
+C:\Users\mcamock\source\repos\AnimalInheritance\AnimalInheritance\obj\Debug\AnimalInheritance.csproj.AssemblyReference.cache
+C:\Users\mcamock\source\repos\AnimalInheritance\AnimalInheritance\obj\Debug\AnimalInheritance.Form1.resources
+C:\Users\mcamock\source\repos\AnimalInheritance\AnimalInheritance\obj\Debug\AnimalInheritance.Properties.Resources.resources
+C:\Users\mcamock\source\repos\AnimalInheritance\AnimalInheritance\obj\Debug\AnimalInheritance.csproj.GenerateResource.cache
+C:\Users\mcamock\source\repos\AnimalInheritance\AnimalInheritance\obj\Debug\AnimalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\mcamock\source\repos\AnimalInheritance\AnimalInheritance\obj\Debug\AnimalInheritance.exe
+C:\Users\mcamock\source\repos\AnimalInheritance\AnimalInheritance\obj\Debug\AnimalInheritance.pdb
