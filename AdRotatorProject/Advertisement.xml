@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>lotus.jpg</ImageUrl>
+		<NavigateUrl>https://www.floweraura.com/blog/lotus-flower-information </NavigateUrl>
+		<AlternateText>
+			Get the information about Lotus flower.
+		</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>flowers</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>mari.jpg</ImageUrl>
+		<NavigateUrl>https://www.britannica.com/plant/marigold</NavigateUrl>
+		<AlternateText>
+			Get the information about Marigold flower.
+		</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>flowers</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>periwinkle1.jpg</ImageUrl>
+		<NavigateUrl>https://www.in.gov/dnr/files/Periwinkle.pdf</NavigateUrl>
+		<AlternateText>
+			Get the information about Periwinkle flower.
+		</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>flowers</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>rose.jpg</ImageUrl>
+		<NavigateUrl>https://www.britannica.com/plant/rose-plant</NavigateUrl>
+		<AlternateText>
+			Get the information about Rose flower.
+		</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>flowers</Keyword>
+	</Ad>
+</Advertisements>
