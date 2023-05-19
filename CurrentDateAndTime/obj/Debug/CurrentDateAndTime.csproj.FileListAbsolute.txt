@@ -1,0 +1,9 @@
+C:\Users\mcamock\source\repos\CurrentDateAndTime\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+C:\Users\mcamock\source\repos\CurrentDateAndTime\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+C:\Users\mcamock\source\repos\CurrentDateAndTime\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+C:\Users\mcamock\source\repos\CurrentDateAndTime\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.Form1.resources
+C:\Users\mcamock\source\repos\CurrentDateAndTime\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.Properties.Resources.resources
+C:\Users\mcamock\source\repos\CurrentDateAndTime\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.csproj.GenerateResource.cache
+C:\Users\mcamock\source\repos\CurrentDateAndTime\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.csproj.CoreCompileInputs.cache
+C:\Users\mcamock\source\repos\CurrentDateAndTime\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+C:\Users\mcamock\source\repos\CurrentDateAndTime\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb
