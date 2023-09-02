@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Template.master.cs" Inherits="MasterContentApp.Template" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>First Master Page</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <h1>Welcome Harshada</h1>
+    <a href ="Page1.aspx">Select Favourite Programming language</a>
+    <br />
+    <a href ="Page2.aspx">Check Calender</a>
+    <br />
+    <a href ="Page3.aspx">Todays message for you</a>
+    <br />
+    <a href ="Page4.aspx">Daily Inspiration</a>
+    <form id="form1" runat="server">
+                <asp:Image ID="Image1" runat="server" Height="189px" ImageUrl="~/lotus.jpg" Width="172px" />
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <p>
+            &nbsp;</p>
+    </form>
+</body>
+</html>
